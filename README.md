@@ -196,9 +196,4 @@ Indexes speed up queries filtering or joining on these columns by allowing faste
 
 This set of queries provides a solid foundation for analyzing ecommerce data effectively with SQL, leveraging key concepts and optimization techniques.
 
-```
-
 ---
-
-If you want, I can prepare this as your `README.md` file ready to push to GitHub. Would you like me to do that?
-```
