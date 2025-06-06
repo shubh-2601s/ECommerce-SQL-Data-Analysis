@@ -165,7 +165,7 @@ Indexes speed up queries filtering or joining on these columns by allowing faste
 
 ---
 
-## Screenshots
+## Visual Results
 
 ![image](https://github.com/user-attachments/assets/6570e280-dd55-4635-8924-4284f8875127)
 ![image](https://github.com/user-attachments/assets/14cf9e21-8d45-4a44-b364-dfc2cd6fc04c)
